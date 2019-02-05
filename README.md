@@ -5,6 +5,7 @@
 * [LinkedIn](https://www.linkedin.com/in/jodeleon95/)
 * [GitHub](https:www.github.com/JoDeleon95)
 * [Indentity Chart](https://docs.google.com/drawings/d/1wgQIBFDlIgrJ8smlMjQXRhjZJ97nAxANBm4EG9qoBFw/edit?usp=sharing)
+* [Resume](https://docs.google.com/document/d/1e2ntmCP53Bak5bK35N2sEBRj11IASBuZC6MZ5bMlbC0/edit?usp=sharing)
 
 *Introduction:
 "Hello, my name is Josh, I would like to become an Software Developer and get into a career with a Tech Company, but at some point I would also love to go down entrepreneurial route and create my own business and build Applications that would help real life situations and the every day user.
