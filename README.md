@@ -5,7 +5,7 @@
 * [LinkedIn](https://www.linkedin.com/in/jodeleon95/)
 * [GitHub](https:www.github.com/JoDeleon95)
 * [Indentity Chart](https://docs.google.com/drawings/d/1wgQIBFDlIgrJ8smlMjQXRhjZJ97nAxANBm4EG9qoBFw/edit?usp=sharing)
-* [Resume](https://docs.google.com/document/d/1e2ntmCP53Bak5bK35N2sEBRj11IASBuZC6MZ5bMlbC0/edit?usp=sharing)
+* [Resume](Resume-3.pdf)
 * [Stove Chart](https://docs.google.com/document/d/1T272SYcMyxS7CPS8hGgjJpX7BWEcc9HOWSi2-V2i51c/edit?usp=sharing)
 
 *Introduction:
