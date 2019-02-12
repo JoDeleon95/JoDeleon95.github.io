@@ -39,9 +39,9 @@ My two photos connect in a very interesting way. If you were to look at the phot
 After the end of my 2 weeks I can see myself slowly but surely starting to learn the content. We had our first quiz this past week and I was pretty confident. Although you could take the Quiz as many times as possible, I was able to get the passing score on the 3rd attempt which to me is making progress. If I were to have attempted this Quiz my first week it would have probably took way more than 3 tries. Also we did have our first ProDevLab meeting upstairs where we were introduced to some of the people CNM Ingenuity works with as well as past DeepDive students and some neat projects they had. Really got me excited to see how I'll be at the end of this program!
 
 
-# Name of two Organizations:
+*Week 3 Reflection:
+After my 3rd week im feeling like my head is going to explode with all the information coming in. We definitley dove into that week and learned a lot! Mostly about structures, methods, classes and the bubble sort. We made a craps game which is actually pretty neat seeing something that was created from nothing into a functioning game and it's cool to see run on an emulator. ALso to finish up the week they were some guest speakers that were great and had so many good talk points and really hepled broaden my view on so many things. Very good energy that was displayed and definitley helps me keep that same type of energy throughout the program.
 
-* First Site
 
 
 
