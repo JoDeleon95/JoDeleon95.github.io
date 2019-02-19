@@ -45,6 +45,7 @@ After the end of my 2 weeks I can see myself slowly but surely starting to learn
 After my 3rd week im feeling like my head is going to explode with all the information coming in. We definitley dove into that week and learned a lot! Mostly about structures, methods, classes and the bubble sort. We made a craps game which is actually pretty neat seeing something that was created from nothing into a functioning game and it's cool to see run on an emulator. ALso to finish up the week they were some guest speakers that were great and had so many good talk points and really hepled broaden my view on so many things. Very good energy that was displayed and definitley helps me keep that same type of energy throughout the program.
 
 
-
+*Week 4 Reflection:
+After my 4th week I am feeling more confident in learning Java. We did spend about 8 hours testing and it was rough but I didn't do too bad, I thought I would've been a lot more behind but I feel that I am roughly around where I need to be. Just keeping positive and stay moving forward. Also this week we played what I'd say would be a team builder game. It was pretty neat how every team memeber had to work together and use the resources each one had. Definitley helped my Capstone team kinda focus on that and make sure we are all helping each other to succeed, which we did.
 
  
